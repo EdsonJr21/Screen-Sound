@@ -1,0 +1,17 @@
+.vs/
+.vscode/
+.idea/
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+.vscode/
+.vs2019/
+.vs2017/
+*.swp
+*.bak
+*.tmp
+.nuget/
+*.log
